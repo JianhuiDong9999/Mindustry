@@ -1801,6 +1801,7 @@ public class Blocks{
             tileDamage = 7f;
             length = 10;
             tendrils = 4;
+            underBullets = true;
         }};
 
         radar = new Radar("radar"){{
